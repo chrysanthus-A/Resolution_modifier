@@ -59,4 +59,4 @@ resolution=(int(h[0]),int(h[1]))
 if(opt==1):
 	single_image(resolution)
 elif(opt==2):
-	multiple_image(resolution
+	multiple_image(resolution)
